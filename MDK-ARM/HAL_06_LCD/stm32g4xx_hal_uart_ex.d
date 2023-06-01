@@ -1,5 +1,5 @@
-./hal_06_lcd/stm32g4xx_hal_pwr_ex.o: \
-  ..\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr_ex.c \
+./hal_06_lcd/stm32g4xx_hal_uart_ex.o: \
+  ..\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart_ex.c \
   ..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal.h \
   ..\Inc\stm32g4xx_hal_conf.h \
   ..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_rcc.h \
